@@ -10,7 +10,7 @@ allowFunctionsRecompile = 1;
 #include "config\CfgFerrys.cpp"
 #include "config\CfgGarages.cpp"
 #include "config\CfgHints.cpp"
-#include "config\CfgJustice.cpp" //'dont know if its deprecated
+#include "config\CfgJustice.cpp" //'não sei se é obsoleto
 #include "config\CfgMaster.cpp"
 #include "config\CfgPackages.cpp"
 #include "config\CfgPDA.cpp"
@@ -21,7 +21,7 @@ allowFunctionsRecompile = 1;
 #include "config\CfgRecipes.cpp"
 #include "config\CfgSeats.cpp"
 #include "config\CfgShops.cpp"
-#include "config\CfgStaticCameras.cpp" //is it used? i dont think so...
+#include "config\CfgStaticCameras.cpp" //ele é usado? eu não penso dessa forma...
 #include "config\CfgTextures.cpp"
 #include "config\CfgTransponderCodes.cpp"
 #include "config\CfgVehicleShops.cpp"
