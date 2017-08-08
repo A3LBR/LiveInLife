@@ -3,7 +3,7 @@
 {
     class butcher1
     {
-        displayName = "Ausschlachter Nummer 1!";
+        displayName = "Número Ausschlachter 1!";
 
         class vehicles
         {
@@ -21,7 +21,7 @@
 
 class CfgButcher {
 class butcher1 {
-displayName = "Verwertungsanlage";
+displayName = "Centro de reciclagem";
 
 class vehicles {
 class egcv_Urbanized_LP700_yellow {
