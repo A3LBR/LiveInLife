@@ -6,7 +6,7 @@ class CfgExchange {
 
         class categories {
             class category1 {
-                displayName = "Tools";
+                displayName = "Ferramentas";
                 items[] = {
                     "ItemMap"
                 };
