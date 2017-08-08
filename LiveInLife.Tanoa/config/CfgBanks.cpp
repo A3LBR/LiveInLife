@@ -1,7 +1,7 @@
 
 class CfgBanks {
     class tanBank {
-        displayName = "Tanoa Bank";
+        displayName = "Banco de Tanoa";
         picture = "";
         newAccountAmountPersonal = 0;
         newAccountAmountBusiness = 1000;
@@ -10,7 +10,7 @@ class CfgBanks {
         startAmountPersonal = 10000;
         isIllegal = 0;
 
-        hashPrefix = "TANX"; //maximum 4 chars
+        hashPrefix = "TANX"; //Máximo de 4 caracteres
 
         maxBusinessAccounts = 1;
         maxPersonalAccounts = 1;
@@ -34,7 +34,7 @@ class CfgBanks {
     };*/
 
     class gnBank {
-        displayName = "Goliath National Bank";
+        displayName = "Banco Nacional Goliath";
         picture = "";
         newAccountAmount = 5000;
         
@@ -42,7 +42,7 @@ class CfgBanks {
         startAmountPersonal = 10000;
         isIllegal = 0;
 
-        hashPrefix = "GNXX"; //maximum 4 chars
+        hashPrefix = "GNXX"; //Máximo de 4 caracteres
 
         maxBusinessAccounts = 0;
         maxPersonalAccounts = 1;
