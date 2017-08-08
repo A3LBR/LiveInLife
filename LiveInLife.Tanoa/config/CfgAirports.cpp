@@ -1,22 +1,22 @@
 
 class CfgAirports {
 	class tanoaInt {
-        displayName = "Aéroport de Tanoa";
+        displayName = "Aéroporto de Tanoa";
         markerName = "tanoaInt";
     };
 
     class saintGeorge {
-        displayName = "Saint George Airstrip";
+        displayName = "São Jorge Pista de pouso";
         markerName = "saintGeorge";
     };
 
     class tuvanakaAirbase {
-        displayName = "Tuvanaka Airbase";
+        displayName = "Base Tuvanaka";
         markerName = "tuvanakaAirbase";
     };
 
     class laRochelleAirport {
-        displayName = "La Rochelle Aerodrome";
+        displayName = "O Aeródromo Rochelle";
         markerName = "laRochelleAirport";
     };
 };
