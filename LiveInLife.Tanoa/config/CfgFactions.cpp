@@ -2,17 +2,17 @@ class CfgFactions {
     class authority {
         id = 0;
         forumGroups[] = {27, 14, 28, 9, 26, 15};
-        displayName = "Polizei";
+        displayName = "Polícia";
         enableGlobalPhone = 1;
-        title = "Beamter";
+        title = "Funcionários";
         description = "";
-        respawn[] = {"authority_1_respawn", "authority_2_respawn"}; //or array - selects the nearest
+        respawn[] = {"authority_1_respawn", "authority_2_respawn"}; //ou matriz - selecciona a mais próxima
         color[] = {0, (56/255), (120/255), 1};
 		init = "factions\authority\init.sqf";
         respawnInit = "factions\authority\respawnInit.sqf";
         globalVehicleLock = 1;
         havePDA = 1;
-        nameVisible = 1; //0 = no name without "pcard-showed" visible, 1 = firstname without "pcard-showed" visible, 2 = fullname without "pcard-showed" visible
+        nameVisible = 1; //0 = sem nome sem "Mostrou-pcard" visível, 1 = sem primeiro nome "Mostrou-pcard" visível, 2 = sem nome completo "pcard-Mostrou" visível
         selectablePermissions[] = {
             "pda.open",
             "pda.search.*",
