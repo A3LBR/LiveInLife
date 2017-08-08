@@ -1,13 +1,14 @@
 # LiveInLife
-Another Arma 3 Life Modification
+Outra Modificação de AltisLife Arma 3
 
-## What is LiveInLife
-**LiveInLife** was a small idea of creating an free-to-use "library" (it isn't really is a library...) for ArmA 3 RPG-Server's. **LiveInLife** was created to support developers of RPG-Server's who want to create their own RPG-Modification.
-There are currently just a few packages available because **LiveInLife** is in development status - problems and other issues are common in this state.
+## O que é LiveInLife
+**LiveInLife** Foi uma pequena ideia de criar uma "biblioteca" gratuita (não é realmente uma biblioteca ...) para ArmA 3 RPG-Servers.
+**LiveInLife** Foi criado para oferecer suporte a desenvolvedores do RPG-Server que desejam criar sua própria RPG-Modification.
+Atualmente, existem apenas alguns pacotes disponíveis porque **LiveInLife** Está em status de desenvolvimento - problemas e outros problemas são comuns neste estado.
 
-**LiveInLife** do not pretend anything in your mission - it's up to you choose between possibilities!
+**LiveInLife** Não finja nada em sua missão - depende de você escolher entre as possibilidades!
 
-## Installation
-See: https://github.com/AGPHeaddikilla/LiveInLife/wiki/Installation
+## Instalação
+Veja: https://github.com/A3LBR/LiveInLife/wiki/Installation
 
-You want to contribute things? - create a pull request!
+Você quer contribuir com as coisas? - Crie um pedido!
