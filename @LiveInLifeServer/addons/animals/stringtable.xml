@@ -6,27 +6,27 @@
             <Key ID="STR_lilc_actions_ActionTitle_flipVehicle">
                 <Original>Turn around</Original>
                 <English>Turn around</English>
-                <German>Fahrzeug umdrehen</German>
+                <Portuguese>Inversão de marcha</Portuguese>
             </Key>
             <Key ID="STR_lilc_actions_ActionTitle_hideCorpse">
                 <Original>Hide corpse</Original>
                 <English>Hide corpse</English>
-                <German>Leiche verstecken</German>
+                <Portuguese>Esconder cadáver</Portuguese>
             </Key>
             <Key ID="STR_lilc_actions_ActionTitle_handCuffs">
                 <Original>Apply handcuffs</Original>
                 <English>Apply handcuffs</English>
-                <German>Handschellen anlegen</German>
+                <Portuguese>Aplique algemas</Portuguese>
             </Key>
             <Key ID="STR_lilc_actions_ActionTitle_giveMoney">
                 <Original>Give money</Original>
                 <English>Give money</English>
-                <German>Geld geben</German>
+                <Portuguese>Dar dinheiro</Portuguese>
             </Key>
             <Key ID="STR_lilc_actions_ActionTitle_showPersonalcard">
                 <Original>Show personalcard</Original>
                 <English>Show personalcard</English>
-                <German>Personalausweis zeigen</German>
+                <Portuguese>Mostrar cartão pessoal</Portuguese>
             </Key>
         </Container>
     </Package>
